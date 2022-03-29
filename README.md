@@ -8,7 +8,7 @@
 
 ## Attention
 
-This bot is only for fun and was created while CBT, don't use it to gather resources cos it's a kind of cheat, and you have some risks to get banned.
+This bot is only for fun and was created while CBT (closed beta test), don't use it to gather resources cos it's a kind of cheat, and you have some risks to get banned.
 
 ## Install
 
